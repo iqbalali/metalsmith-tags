@@ -1,5 +1,5 @@
 {
-  "name": "metalsmith-tags",
+  "name": "metalsmith-tags-permalinks",
   "version": "0.6.1",
   "description": "A metalsmith plugin to create dedicated pages for tags in posts or pages.",
   "main": "lib/index.js",
